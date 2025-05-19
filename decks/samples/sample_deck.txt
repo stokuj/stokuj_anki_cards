@@ -1,0 +1,14 @@
+# Sample Anki Cards Deck
+# Format: Question\tAnswer
+# Import this file into Anki using File > Import
+
+What is Anki?	Anki is a free and open-source flashcard program that utilizes spaced repetition.
+What is spaced repetition?	A learning technique that incorporates increasing intervals of time between subsequent review of previously learned material to exploit the psychological spacing effect.
+What is the capital of France?	Paris
+What is the capital of Japan?	Tokyo
+What is the capital of Brazil?	Brasília
+What is the largest planet in our solar system?	Jupiter
+What is the chemical symbol for gold?	Au
+What is the chemical symbol for silver?	Ag
+What is the chemical formula for water?	H2O
+What is the speed of light?	299,792,458 meters per second
